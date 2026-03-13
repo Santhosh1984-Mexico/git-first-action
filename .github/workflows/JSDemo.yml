@@ -1,0 +1,8 @@
+            - name: Measure JavaScript Size
+  # You may pin to the exact commit or the version.
+  # uses: LorgioRoda/measure-web-performance@1b5211a419ad658095662f0277c79a38cd8cef16
+  uses: LorgioRoda/measure-web-performance@v1.1.0
+  with:
+    # Directory where the build files are located
+    build_dir: 
+          
